@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87da91ab-9d0c-4b30-930d-7699f6f32805" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestMultiOccurance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestFindingHarry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/TransposeString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/CountOccurance.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/ReplaceDandL.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/SortAndPrint.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/TransposeString.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/FindingHarry.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/FindingHarry.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/CountOccurance.java" />
+        <option value="$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestCountOccurance.java" />
+        <option value="$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestMultiOccurance.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/MultiOccurance.java" />
+        <option value="$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestFindingHarry.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/ReplaceDandL.java" />
+        <option value="$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestSortAndPrint.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/SortAndPrint.java" />
+        <option value="$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestReplaceDandL.java" />
+        <option value="$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/TransposeString.java" />
+        <option value="$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestTransposeString.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="5">
+    <option name="x" value="833" />
+    <option name="y" value="25" />
+    <option name="width" value="767" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PE04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PractiseCycle04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PractiseCycle04" type="462c0819:PsiDirectoryNode" />
+              <item name="PractiseCycle04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPractise04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPractise04" type="462c0819:PsiDirectoryNode" />
+              <item name="TestPractise04" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/PractiseCycle04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestReplaceDandL">
+    <configuration name="MultiOccurance" type="JUnit" factoryName="JUnit">
+      <module name="PE04" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFindingHarry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPractise04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPractise04" />
+      <option name="MAIN_CLASS_NAME" value="TestPractise04.TestFindingHarry" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMultiOccurance.testMultiMatchNotfound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPractise04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPractise04" />
+      <option name="MAIN_CLASS_NAME" value="TestPractise04.TestMultiOccurance" />
+      <option name="METHOD_NAME" value="testMultiMatchNotfound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReplaceDandL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPractise04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPractise04" />
+      <option name="MAIN_CLASS_NAME" value="TestPractise04.TestReplaceDandL" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSortAndPrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPractise04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPractise04" />
+      <option name="MAIN_CLASS_NAME" value="TestPractise04.TestSortAndPrint" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransposeString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPractise04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPractise04" />
+      <option name="MAIN_CLASS_NAME" value="TestPractise04.TestTransposeString" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MultiOccurance" />
+      <item itemvalue="JUnit.TestFindingHarry" />
+      <item itemvalue="JUnit.TestMultiOccurance.testMultiMatchNotfound" />
+      <item itemvalue="JUnit.TestReplaceDandL" />
+      <item itemvalue="JUnit.TestSortAndPrint" />
+      <item itemvalue="JUnit.TestTransposeString" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestReplaceDandL" />
+        <item itemvalue="JUnit.TestTransposeString" />
+        <item itemvalue="JUnit.TestSortAndPrint" />
+        <item itemvalue="JUnit.TestFindingHarry" />
+        <item itemvalue="JUnit.TestMultiOccurance.testMultiMatchNotfound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87da91ab-9d0c-4b30-930d-7699f6f32805" name="Default Changelist" comment="" />
+      <created>1558001960655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558001960655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMultiOccurance_testMultiMatch - 2019.05.17 at 09h 41m 03s.xml">
+      <configuration name="TestMultiOccurance.testMultiMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMultiOccurance_testMultiMatch - 2019.05.17 at 09h 44m 59s.xml">
+      <configuration name="TestMultiOccurance.testMultiMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMultiOccurance_testMultiMatch - 2019.05.17 at 09h 45m 41s.xml">
+      <configuration name="TestMultiOccurance.testMultiMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMultiOccurance_testMultiMatch - 2019.05.17 at 09h 46m 20s.xml">
+      <configuration name="TestMultiOccurance.testMultiMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMultiOccurance_testMultiMatchNotfound - 2019.05.17 at 09h 46m 47s.xml">
+      <configuration name="TestMultiOccurance.testMultiMatchNotfound" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMultiOccurance_testMultiMatchNotfound - 2019.05.17 at 09h 47m 25s.xml">
+      <configuration name="TestMultiOccurance.testMultiMatchNotfound" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFindingHarry - 2019.05.17 at 09h 57m 16s.xml">
+      <configuration name="TestFindingHarry" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSortAndPrint - 2019.05.17 at 10h 10m 24s.xml">
+      <configuration name="TestSortAndPrint" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransposeString - 2019.05.17 at 12h 04m 53s.xml">
+      <configuration name="TestTransposeString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReplaceDandL - 2019.05.17 at 12h 20m 06s.xml">
+      <configuration name="TestReplaceDandL" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="833" y="25" width="767" height="875" extended-state="4" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17475729" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2647059" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328877" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/ComparisonCriteria.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/CountOccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/MultiOccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/FindingHarry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/SortAndPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="105" selection-start-line="11" selection-start-column="105" selection-end-line="11" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/ReplaceDandL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestCountOccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestReplaceDandL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestSortAndPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PractiseCycle04/PractiseCycle04/TransposeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestTransposeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestFindingHarry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestPractise04/TestPractise04/TestMultiOccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
